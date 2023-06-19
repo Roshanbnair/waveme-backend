@@ -1,0 +1,446 @@
+{
+  "malayalamSongs": [
+    {
+      "title": "Parayuvan",
+      "album": "Ishq",
+      "artist": "Sid Sriram",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b273e2a75e65f41e9a62078d583e",
+      "url": "http://localhost:4200/assets/media/songs/Parayuvaan%20Lyric%20Video%20-%20ISHQ%20Malayalam%20Movie%20-%20Shane%20Nigam%20-%20Jakes%20Bejoy%20-%20Sid%20Sriram%20-%20Anuraj%20-E4E.mp3",
+      "id": "1"
+    },
+    {
+      "title": "Onakka Munthiri",
+      "album": "Hridayam",
+      "artist": "Abdul Wahab",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e029b8c8ab6e0a59493a5fa06c6",
+      "url": "http://localhost:4200/assets/media/songs/Onakka%20Munthiri%20Video%20Song%20Hridayam%20Pranav,%20Kalyani%20Vineeth%20Divya%20Hesham%20Visakh%20Merryland.mp3",
+      "id": "2"
+    },
+    {
+      "title": "Shishiram Pothiyum",
+      "album": "Hridayam",
+      "artist": "Nithya Mammen",
+      "artwork": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/74/69/f1/7469f109-0870-c38c-6ca2-89ebd9d3bde5/cover.jpg/1200x1200bf-60.jpg",
+      "url": "http://localhost:4200/assets/media/songs/Hridyam%20Shishiram%20Pothiyum%20Nithya%20Mammen%20Ayraan%20Swathy%20Manu%20Biju%20Kurup%20Sharanya.mp3",
+      "id": "3"
+    },
+    {
+      "title": "Rithuragam",
+      "album": "Vaashi",
+      "artist": "Keshav Vinod",
+      "artwork": "https://c.saavncdn.com/549/Vaashi-Malayalam-2022-20220617085044-500x500.jpg",
+      "url": "http://localhost:4200/assets/media/songs/Rithuragam%20-%20Video%20Song%20Vaashi%20Tovino%20Thomas,Keerthy%20Suresh%20Kailas%20Vishnu%20G%20Raghav%20Vinayak.mp3",
+      "id": "4"
+    },
+    {
+      "title": "Nee",
+      "album": "Mike",
+      "artist": "Hesham Abdul",
+      "artwork": "https://i.ytimg.com/vi/NPiFebt44Hs/maxresdefault.jpg",
+      "url": "http://localhost:4200/assets/media/songs/Mike%20-%20Nee%20Song%20Video%20Ranjith%20Sajeev,%20Anaswara%20Rajan,%20Vishnu%20Sivaprasad%20Hesham%20Abdul%20Wahab.mp3",
+      "id": "5"
+    },
+    {
+      "title": "Kannil Pettole",
+      "album": "Thallumaala",
+      "artist": "Vishnu Vijay",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b27315daf66c21ec090a3a1ed721",
+      "url": "http://localhost:4200/assets/media/songs/Kannil%20Pettole%20Video%20Song%20Thallumaala%20Tovino%20Thomas%20Khalid%20Rahman%20Ashiq%20Usman%20Vishnu%20Vijay.mp3",
+      "id": "6"
+    }
+  ],
+  "allMalayalamSongs": [
+    {
+      "title": "Parayuvan",
+      "album": "Ishq",
+      "artist": "Sid Sriram",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b273e2a75e65f41e9a62078d583e",
+      "url": "http://localhost:4200/assets/media/songs/Parayuvaan%20Lyric%20Video%20-%20ISHQ%20Malayalam%20Movie%20-%20Shane%20Nigam%20-%20Jakes%20Bejoy%20-%20Sid%20Sriram%20-%20Anuraj%20-E4E.mp3",
+      "id": "1"
+    },
+    {
+      "title": "Onakka Munthiri",
+      "album": "Hridayam",
+      "artist": "Abdul Wahab",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e029b8c8ab6e0a59493a5fa06c6",
+      "url": "http://localhost:4200/assets/media/songs/Onakka%20Munthiri%20Video%20Song%20Hridayam%20Pranav,%20Kalyani%20Vineeth%20Divya%20Hesham%20Visakh%20Merryland.mp3",
+      "id": "2"
+    },
+    {
+      "title": "Shishiram Pothiyum",
+      "album": "Hridayam",
+      "artist": "Nithya Mammen",
+      "artwork": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/74/69/f1/7469f109-0870-c38c-6ca2-89ebd9d3bde5/cover.jpg/1200x1200bf-60.jpg",
+      "url": "http://localhost:4200/assets/media/songs/Hridyam%20Shishiram%20Pothiyum%20Nithya%20Mammen%20Ayraan%20Swathy%20Manu%20Biju%20Kurup%20Sharanya.mp3",
+      "id": "3"
+    },
+    {
+      "title": "Rithuragam",
+      "album": "Vaashi",
+      "artist": "Keshav Vinod",
+      "artwork": "https://c.saavncdn.com/549/Vaashi-Malayalam-2022-20220617085044-500x500.jpg",
+      "url": "http://localhost:4200/assets/media/songs/Rithuragam%20-%20Video%20Song%20Vaashi%20Tovino%20Thomas,Keerthy%20Suresh%20Kailas%20Vishnu%20G%20Raghav%20Vinayak.mp3",
+      "id": "4"
+    },
+    {
+      "title": "Nee",
+      "album": "Mike",
+      "artist": "Hesham Abdul",
+      "artwork": "https://i.ytimg.com/vi/NPiFebt44Hs/maxresdefault.jpg",
+      "url": "http://localhost:4200/assets/media/songs/Mike%20-%20Nee%20Song%20Video%20Ranjith%20Sajeev,%20Anaswara%20Rajan,%20Vishnu%20Sivaprasad%20Hesham%20Abdul%20Wahab.mp3",
+      "id": "5"
+    },
+    {
+      "title": "Kannil Pettole",
+      "album": "Thallumaala",
+      "artist": "Vishnu Vijay",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b27315daf66c21ec090a3a1ed721",
+      "url": "http://localhost:4200/assets/media/songs/Kannil%20Pettole%20Video%20Song%20Thallumaala%20Tovino%20Thomas%20Khalid%20Rahman%20Ashiq%20Usman%20Vishnu%20Vijay.mp3",
+      "id": "6"
+    },
+    {
+      "title": "Pavizha Mazha",
+      "album": "Athiran",
+      "artist": "KS Harishankar",
+      "artwork": "https://3.bp.blogspot.com/-vL4otuYvSBo/XKYz57fk7DI/AAAAAAAAE84/itLC43tI6I0vWye5khYCGFUAYy5ZbGHIgCLcBGAs/s400/athiran.jpg",
+      "url": "http://localhost:4200/assets/media/songs2/Pavizha%20Mazha%20%E0%B4%AA%E0%B4%B5%E0%B4%B4%E0%B4%AE%E0%B4%B4%20Athiran%20Official%20Song%20Video%20Fahad%20Faasil%20Sai%20Pallavi%20Vivek.mp3",
+      "id": "7"
+    },
+    {
+      "title": "Innale Mellane",
+      "album": "Nizhal",
+      "artist": "Haricharan",
+      "artwork": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/ec/82/ef/ec82ef26-53e7-7c35-b1a9-3ca21e9265c3/cover.jpg/600x600bf-60.jpg",
+      "url": "http://localhost:4200/assets/media/songs2/Innale%20Mellane%20Video%20Song%20Nizhal%20Kunchacko%20Boban%20Nayanthara%20Sooraj%20S%20Kurup%20Haricharan.mp3",
+      "id": "8"
+    },
+    {
+      "title": "Nenjame Nenjame",
+      "album": "Vineeth Shreenivasan",
+      "artist": "Sara'S",
+      "artwork": "https://c.saavncdn.com/508/Ravoram-From-Sara-S--Malayalam-2021-20210709112331-500x500.jpg",
+      "url": "http://localhost:4200/assets/media/songs2/Sara's%20Nenjame%20NenjameJude%20Anthany%20JosephShaan%20RahmanVineeth%20SreenivasanGowry%20LekshmiJoe%20Paul.mp3",
+      "id": "9"
+    },
+    {
+      "title": "Ore Pakal",
+      "album": "Drishyam 2",
+      "artist": "Zonobia Safar",
+      "artwork": "https://is4-ssl.mzstatic.com/image/thumb/Music116/v4/c5/bc/72/c5bc72b9-50ca-e897-924b-28a244ef0e55/8904337217471.jpg/375x375bb.jpg",
+      "url": "https://waveme-rbn.netlify.app/assets/media/songs2/Ore%20Pakal%20Official%20Video%20Song%20Mohanlal%20Meena%20Jeethu%20Joseph%20Drishyam%202.mp3",
+      "id": "10"
+    },
+    {
+      "title": "Alolam",
+      "album": "Love Action Drama",
+      "artist": "KS Harishankar",
+      "artwork": "https://c.saavncdn.com/614/Love-Action-Drama-Malayalam-2019-20191122065339-500x500.jpg",
+      "url": "https://6490279b72e88049906e0601--helpful-platypus-fa1db6.netlify.app/assets/media/songs2/Aalolam Lyric Video Love Action Drama Song Nivin Pauly, Nayanthara Shaan Rahman Official.mp3",
+      "id": "11"
+    },
+    {
+      "title": "Munthiripoovo",
+      "album": "Bhramam",
+      "artist": "Jakes Bejoy",
+      "artwork": "https://c.saavncdn.com/890/Bhramam-Malayalam-2021-20211001154142-500x500.jpg",
+      "url": "http://localhost:4200/assets/media/songs2/Munthiripoovo%20Lyrical%20Video%20Bhramam%20Prithviraj%20Sukumaran%20Raashi%20Khanna%20Jakes%20Bejoy.mp3",
+      "id": "12"
+    }
+  ],
+  "hindiSongs": [
+    {
+      "title": "Kesariya",
+      "album": "Brahmasthra",
+      "artist": "Arjith Singh",
+      "artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOAetTuQS3JwXXAAOa0q2FpBts1BxAl_KiWvwVDCVw3g&s",
+      "url": "http://localhost:4200/assets/media/songs/Kesariya%20-%20Brahm%C4%81stra%20Ranbir%20Kapoor%20Alia%20Bhatt%20Pritam%20Arijit%20Singh%20Amitabh%20Bhattacharya.mp3",
+      "id": "1"
+    },
+    {
+      "title": "Kuch Baatein",
+      "album": "Kuch Baatein",
+      "artist": "Jubin Nautiyal",
+      "artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTskvreAItnNYDqr1uWDfCGPExzgiqqsHcRCGQ1dfdaJg&s",
+      "url": "http://localhost:4200/assets/media/songs/Kuch%20Baatein%20Song%20Payal%20Dev,%20Jubin%20Nautiyal%20Kunaal%20Vermaa%20Ashish%20Panda%20Gurmeet%20C,%20Bhushan%20K.mp3",
+      "id": "2"
+    },
+    {
+      "title": "Tumse Pyaar Karke",
+      "album": "Tumse Pyaar Karke",
+      "artist": "Jubin Nautiyal",
+      "artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4sZfx8sjW9c3eVDtB8NHKJTDiPMHOK-aPeBerp4n9dA&usqp=CAU&ec=48600112",
+      "url": "http://localhost:4200/assets/media/songs/Tumse%20Pyaar%20Karke%20(Video)%20Tulsi%20Kumar,%20Jubin%20N,%20Gurmeet%20C,%20Ihana%20D,%20Payal,%20Kunaal,%20Navjit,%20Bhushan%20K.mp3",
+      "id": "3"
+    },
+    {
+      "title": "Baarish Mein Tum",
+      "album": "Barish Mein Tum",
+      "artist": "Neha Kakkar",
+      "artwork": "https://c-cl.cdn.smule.com/smule-gg-uw1-s-5/arr/b1/40/490f07fe-a3e2-47cb-ab73-e275417ea44b_1024.jpg",
+      "url": "http://localhost:4200/assets/media/songs/Neha%20Kakkar,%20Rohanpreet%20Baarish%20Mein%20Tum%20Gauahar%20K,%20Zaid%20D%20Showkidd,%20Harsh,%20Samay%20Bhushan%20K.mp3",
+      "id": "4"
+    },
+    {
+      "title": "Mehabooba",
+      "album": "KGF Chapter",
+      "artist": "Ananya Bhat",
+      "artwork": "https://djmaza.live/siteuploads/thumb/sft5/2059_resize2x_200x200.webp",
+      "url": "http://localhost:4200/assets/media/songs/Mehabooba%20Video%20Song%20(Hindi)%20KGF%20Chapter%202%20RockingStar%20Yash%20Prashanth%20NeelRavi%20BasrurHombale.mp3",
+      "id": "5"
+    },
+    {
+      "title": "Fitoor",
+      "album": "Shamshera",
+      "artist": "Arjith Singh",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b273d35e2327b9bb0d81527c5dbe",
+      "url": "http://localhost:4200/assets/media/songs/Fitoor%20Song%20Shamshera%20Ranbir%20Kapoor,%20Vaani%20Kapoor%20Arijit%20Singh,%20Neeti%20Mohan%20Mithoon,%20Karan%20M.mp3",
+      "id": "6"
+    }
+  ],
+  "allHindiSongs": [
+    {
+      "title": "Kesariya",
+      "album": "Brahmasthra",
+      "artist": "Arjith Singh",
+      "artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOAetTuQS3JwXXAAOa0q2FpBts1BxAl_KiWvwVDCVw3g&s",
+      "url": "http://localhost:4200/assets/media/songs/Kesariya%20-%20Brahm%C4%81stra%20Ranbir%20Kapoor%20Alia%20Bhatt%20Pritam%20Arijit%20Singh%20Amitabh%20Bhattacharya.mp3",
+      "id": "1"
+    },
+    {
+      "title": "Kuch Baatein",
+      "album": "Kuch Baatein",
+      "artist": "Jubin Nautiyal",
+      "artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTskvreAItnNYDqr1uWDfCGPExzgiqqsHcRCGQ1dfdaJg&s",
+      "url": "http://localhost:4200/assets/media/songs/Kuch%20Baatein%20Song%20Payal%20Dev,%20Jubin%20Nautiyal%20Kunaal%20Vermaa%20Ashish%20Panda%20Gurmeet%20C,%20Bhushan%20K.mp3",
+      "id": "2"
+    },
+    {
+      "title": "Tumse Pyaar Karke",
+      "album": "Tumse Pyaar Karke",
+      "artist": "Jubin Nautiyal",
+      "artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4sZfx8sjW9c3eVDtB8NHKJTDiPMHOK-aPeBerp4n9dA&usqp=CAU&ec=48600112",
+      "url": "http://localhost:4200/assets/media/songs/Tumse%20Pyaar%20Karke%20(Video)%20Tulsi%20Kumar,%20Jubin%20N,%20Gurmeet%20C,%20Ihana%20D,%20Payal,%20Kunaal,%20Navjit,%20Bhushan%20K.mp3",
+      "id": "3"
+    },
+    {
+      "title": "Baarish Mein Tum",
+      "album": "Barish Mein Tum",
+      "artist": "Neha Kakkar",
+      "artwork": "https://c-cl.cdn.smule.com/smule-gg-uw1-s-5/arr/b1/40/490f07fe-a3e2-47cb-ab73-e275417ea44b_1024.jpg",
+      "url": "http://localhost:4200/assets/media/songs/Neha%20Kakkar,%20Rohanpreet%20Baarish%20Mein%20Tum%20Gauahar%20K,%20Zaid%20D%20Showkidd,%20Harsh,%20Samay%20Bhushan%20K.mp3",
+      "id": "4"
+    },
+    {
+      "title": "Mehabooba",
+      "album": "KGF Chapter 2",
+      "artist": "Ananya Bhat",
+      "artwork": "https://djmaza.live/siteuploads/thumb/sft5/2059_resize2x_200x200.webp",
+      "url": "http://localhost:4200/assets/media/songs/Mehabooba%20Video%20Song%20(Hindi)%20KGF%20Chapter%202%20RockingStar%20Yash%20Prashanth%20NeelRavi%20BasrurHombale.mp3",
+      "id": "5"
+    },
+    {
+      "title": "Fitoor",
+      "album": "Shamshera",
+      "artist": "Arjith Singh",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b273d35e2327b9bb0d81527c5dbe",
+      "url": "http://localhost:4200/assets/media/songs/Fitoor%20Song%20Shamshera%20Ranbir%20Kapoor,%20Vaani%20Kapoor%20Arijit%20Singh,%20Neeti%20Mohan%20Mithoon,%20Karan%20M.mp3",
+      "id": "6"
+    },
+    {
+      "title": "Faraar",
+      "album": "Faraar",
+      "artist": "Akull",
+      "artwork": "https://c.saavncdn.com/660/Faraar-Hindi-2021-20210113053337-500x500.jpg",
+      "url": "http://localhost:4200/assets/media/songs2/Faraar%20(Official%20Video)%20Akull%20Avneet%20Kaur%20Mellow%20D%20VYRL%20Originals%20New%20Song%202021.mp3",
+      "id": "7"
+    },
+    {
+      "title": "Kabhi Tumhe",
+      "album": "Shershaah",
+      "artist": "Darshan Raval",
+      "artwork": "https://c.saavncdn.com/302/Kabhii-Tumhhe-From-Shershaah--Hindi-2021-20210818153329-500x500.jpg",
+      "url": "http://localhost:4200/assets/media/songs2/Kabhii%20Tumhhe%20Official%20Video%20Shershaah%20SidharthKiara%20Javed-Mohsin%20Darshan%20Raval%20Rashmi%20V.mp3",
+      "id": "8"
+    },
+    {
+      "title": "Meri Jaan",
+      "album": "Meri Jaan",
+      "artist": "Jubin Nautiyal",
+      "artwork": "https://c.saavncdn.com/058/Meri-Jaan-Hindi-2021-20210621121838-500x500.jpg",
+      "url": "http://localhost:4200/assets/media/songs2/Meri%20Jaan%20-%20Shashwat%20Sachdev%20X%20Jubin%20Nautiyal%20Raj%20Shekhar.mp3",
+      "id": "9"
+    },
+    {
+      "title": "Illegal Weapons",
+      "album": "ABCD 2",
+      "artist": "Garry Sandhu",
+      "artwork": "https://pagalsong.in/uploads//thumbnails/300x300/id3Picture_836906750.jpg",
+      "url": "http://localhost:4200/assets/media/songs2/Full%20Video%20Illegal%20Weapon%202.0Street%20Dancer%203D%20Varun%20D,Shraddha%20K,NoraTanishk%20B,Jasmine%20S,Garry%20S.mp3",
+      "id": "10"
+    },
+    {
+      "title": "Ik Lamha",
+      "album": "Main Tera",
+      "artist": "Azaan Sami",
+      "artwork": "https://c.saavncdn.com/905/Ik-Lamha-Hindi-2021-20211224024607-500x500.jpg",
+      "url": "http://localhost:4200/assets/media/songs2/Azaan%20Sami%20Khan%20-%20Ik%20Lamha%20ft.%20Maya%20Ali%20(Official%20Music%20Video).mp3",
+      "id": "11"
+    },
+    {
+      "title": "Rangi Saari",
+      "album": "Rangi Saari",
+      "artist": "Kavita Seth",
+      "artwork": "https://c.saavncdn.com/338/Rangi-Saari-Hindi-2022-20220525224633-500x500.jpg",
+      "url": "http://localhost:4200/assets/media/songs2/RANGISARI%20(Video)%20JugJugg%20Jeeyo%20Varun%20D,%20Kiara%20A,%20Anil%20K,%20Neetu%20K%20Kanishk%20&%20Kavita.mp3",
+      "id": "12"
+    }
+  ],
+  "englishSongs": [
+    {
+      "title": "Calm Down",
+      "album": "Calm Down",
+      "artist": "Selena Gomez",
+      "artwork": "https://www.songlyricsganta.com/wp-content/uploads/2022/12/dfKQfZwDTbM-HD-jpg.webp",
+      "url": "http://localhost:4200/assets/media/songs/Rema,%20Selena%20Gomez%20-%20Calm%20Down%20(Official%20Music%20Video).mp3",
+      "id": "1"
+    },
+    {
+      "title": "As It Was",
+      "album": "As It Was",
+      "artist": "Harry Styles",
+      "artwork": "https://i.ytimg.com/vi/H5v3kku4y6Q/maxresdefault.jpg",
+      "url": "http://localhost:4200/assets/media/songs/Harry%20Styles%20-%20As%20It%20Was%20(Official%20Video).mp3",
+      "id": "2"
+    },
+    {
+      "title": "The Drum",
+      "album": "The Drum",
+      "artist": "Alan Walker",
+      "artwork": "https://pmstudio.com/pmstudio/images/Alan-Walker62.jpg",
+      "url": "http://localhost:4200/assets/media/songs/Alan%20Walker%20-%20The%20Drum%20(Official%20Music%20Video).mp3",
+      "id": "3"
+    },
+    {
+      "title": "Bam Bam",
+      "album": "Bam Bam",
+      "artist": "Camila Cabello",
+      "artwork": "https://upload.wikimedia.org/wikipedia/en/4/43/Bam_Bam_featuring_Ed_Sheeran_%28Official_Single_Cover%29_by_Camila_Cabello.png",
+      "url": "http://localhost:4200/assets/media/songs/Camila%20Cabello%20ft.%20Ed%20Sheeran%20-%20Bam%20Bam%20(Official%20Music%20Video).mp3",
+      "id": "4"
+    },
+    {
+      "title": "This Love",
+      "album": "This Love",
+      "artist": "Taylor Swift",
+      "artwork": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/eb/12/b3/eb12b3c5-0818-1856-9dd6-57471222bd4e/00602517999091.rgb.jpg/600x600bf-60.jpg",
+      "url": "http://localhost:4200/assets/media/songs/Taylor%20Swift%20-%20This%20Love%20(Taylor's%20Version)%20(Lyric%20Video).mp3",
+      "id": "5"
+    },
+    {
+      "title": "Celestial",
+      "album": "Celestial",
+      "artist": "Ed Sheeran",
+      "artwork": "https://www.rollingstone.com/wp-content/uploads/2022/09/sheeranpokemon.jpg?w=1024",
+      "url": "http://localhost:4200/assets/media/songs/Ed%20Sheeran,%20Pok%C3%A9mon%20-%20Celestial%20",
+      "id": "6"
+    }
+  ],
+  "allEnglishSongs": [
+    {
+      "title": "Calm Down",
+      "album": "Calm Down",
+      "artist": "Selena Gomez",
+      "artwork": "https://www.songlyricsganta.com/wp-content/uploads/2022/12/dfKQfZwDTbM-HD-jpg.webp",
+      "url": "http://localhost:4200/assets/media/songs/Rema,%20Selena%20Gomez%20-%20Calm%20Down%20(Official%20Music%20Video).mp3",
+      "id": "1"
+    },
+    {
+      "title": "As It Was",
+      "album": "As It Was",
+      "artist": "Harry Styles",
+      "artwork": "https://i.ytimg.com/vi/H5v3kku4y6Q/maxresdefault.jpg",
+      "url": "http://localhost:4200/assets/media/songs/Harry%20Styles%20-%20As%20It%20Was%20(Official%20Video).mp3",
+      "id": "2"
+    },
+    {
+      "title": "The Drum",
+      "album": "The Drum",
+      "artist": "Alan Walker",
+      "artwork": "https://pmstudio.com/pmstudio/images/Alan-Walker62.jpg",
+      "url": "http://localhost:4200/assets/media/songs/Alan%20Walker%20-%20The%20Drum%20(Official%20Music%20Video).mp3",
+      "id": "3"
+    },
+    {
+      "title": "Bam Bam",
+      "album": "Bam Bam",
+      "artist": "Camila Cabello",
+      "artwork": "https://upload.wikimedia.org/wikipedia/en/4/43/Bam_Bam_featuring_Ed_Sheeran_%28Official_Single_Cover%29_by_Camila_Cabello.png",
+      "url": "http://localhost:4200/assets/media/songs/Camila%20Cabello%20ft.%20Ed%20Sheeran%20-%20Bam%20Bam%20(Official%20Music%20Video).mp3",
+      "id": "4"
+    },
+    {
+      "title": "This Love",
+      "album": "This Love",
+      "artist": "Taylor Swift",
+      "artwork": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/eb/12/b3/eb12b3c5-0818-1856-9dd6-57471222bd4e/00602517999091.rgb.jpg/600x600bf-60.jpg",
+      "url": "http://localhost:4200/assets/media/songs/Taylor%20Swift%20-%20This%20Love%20(Taylor's%20Version)%20(Lyric%20Video).mp3",
+      "id": "5"
+    },
+    {
+      "title": "Celestial",
+      "album": "Celestial",
+      "artist": "Ed Sheeran",
+      "artwork": "https://www.rollingstone.com/wp-content/uploads/2022/09/sheeranpokemon.jpg?w=1024",
+      "url": "http://localhost:4200/assets/media/songs/Ed%20Sheeran,%20Pok%C3%A9mon%20-%20Celestial%20",
+      "id": "6"
+    },
+    {
+      "title": "Stay",
+      "album": "Stay",
+      "artist": "Justin Bieber",
+      "artwork": "https://i.pinimg.com/736x/4f/d9/94/4fd994c3e084d26f9e5df370a59506b6.jpg",
+      "url": "http://localhost:4200/assets/media/songs2/The%20Kid%20LAROI,%20Justin%20Bieber%20-%20STAY%20(Official%20Video).mp3",
+      "id": "7"
+    },
+    {
+      "title": "Demons",
+      "album": "Night Visions",
+      "artist": "Imagine Dragons",
+      "artwork": "https://c.saavncdn.com/210/Night-Visions-2013-500x500.jpg",
+      "url": "http://localhost:4200/assets/media/songs2/Imagine%20Dragons%20-%20Demons%20(Official%20Music%20Video).mp3",
+      "id": "8"
+    },
+    {
+      "title": "Without Me",
+      "album": "Manic",
+      "artist": "Halsey",
+      "artwork": "https://images.genius.com/e1ab0c7c69bc4a6788ab83c35111e051.1000x1000x1.jpg",
+      "url": "http://localhost:4200/assets/media/songs2/Halsey%20-%20Without%20Me.mp3",
+      "id": "9"
+    },
+    {
+      "title": "Monster",
+      "album": "Vessels",
+      "artist": "Starset",
+      "artwork": "https://i.ytimg.com/vi/XOxQaKAO6rU/hqdefault.jpg",
+      "url": "http://localhost:4200/assets/media/songs2/Starset%20-%20Monster%20(Official%20Music%20Video).mp3",
+      "id": "10"
+    },
+    {
+      "title": "Numb",
+      "album": "Meteora",
+      "artist": "Linkin Park",
+      "artwork": "https://i.pinimg.com/originals/01/34/5a/01345a08e40046df634a306f9419c4c4.jpg",
+      "url": "https://www.dropbox.com/s/t0wxpaignadlnz9/Numb%20%28Official%20Music%20Video%29%20%5B4K%20UPGRADE%5D%20Linkin%20Park.mp3?dl=0",
+      "id": "11"
+    },
+    {
+      "title": "All Of Me",
+      "album": "Let the Light In",
+      "artist": "Ashes Remain",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b2732eebd627923763b3c57f1e3f",
+      "url": "http://localhost:4200/assets/media/songs2/Ashes%20Remain%20-%20All%20Of%20Me%20(Official%20Lyric%20Video).mp3",
+      "id": "12"
+    }
+  ]
+}
